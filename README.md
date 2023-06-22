@@ -7,7 +7,7 @@ Bootstrap your app development by using this awesome react native starter kit, i
 - Login with Facebook
 - Sign in with Google
 - User Management with Firebase Auth
-- Firebase Firestore Integration
+- Firebase Integration
 - Email/Password Registration
 - Persistent Login Credentials (a.k.a Remember password)
 - Logout Functionality
